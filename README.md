@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api?username=fauzannet&show_icons=true&theme=synthwave" width="400">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fauzannet&theme=material&mode=weekly" alt="GitHub Streak" /></a>
 <!--
 **fauzannet/fauzannet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
