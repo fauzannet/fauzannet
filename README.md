@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi there 👋, I'm Fauzan Al Irsyadul</h2>
-  <h4>🌱 Game Developer Also likes Ui/Ux, Kotlin and Backend Programming</h4>
+  <h4>⚡ Game Developer Also likes Ui/Ux, Kotlin and Backend Programming</h4>
 </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/EmXcVvHAgLTWyOSItd/giphy.gif" width="100"/>
