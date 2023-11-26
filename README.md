@@ -11,7 +11,7 @@
 </div>
 </div>
 <div align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fauzannet&theme=material&mode=weekly" alt="GitHub Streak" /></a></div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<div align="center"><a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzannet&layout=compact"/></a></div>
 <!--
 **fauzannet/fauzannet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
